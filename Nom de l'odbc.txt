@@ -1,0 +1,4 @@
+ODBCPharmacie
+
+[LOGIN : ADMIN]
+[PASSWORD : ADMIN]
